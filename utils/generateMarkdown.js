@@ -71,8 +71,8 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## Questions
-  If you have any questions, please feel free to contact me at [${data.github}](https://github.com/${data.github}).
-`;
+  If you have any questions, please feel free to contact me at [${data.email}](mailto:${data.email}). You can also find more of my work at [${data.github}](https://github.com/${data.github}).
+  `;
 }
 module.exports = generateMarkdown;
 

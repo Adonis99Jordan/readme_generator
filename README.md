@@ -1,9 +1,9 @@
 
-  # title
+  # Project Title
   ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
-  text
+  A readme file generator
 
   ## Table of contents
   -[Installation](#installation)<br>
@@ -14,10 +14,10 @@
   -[Questions](#questions)<br>
 
   ## Installation
-  text
+  clone my repo and npm i to install packages. then run node index.js
 
   ## Usage
-  text
+  none
 
   ## License
   
@@ -27,10 +27,11 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
   
 
   ## Contributing
-  text
+  none
 
   ## Tests
-  text
+  none
 
   ## Questions
-  If you have any questions, please feel free to contact me at [text](https://github.com/text).
+  If you have any questions, please feel free to contact me at [adonisjzepeda@gmail.com](mailto:adonisjzepeda@gmail.com). You can also find more of my work at [Adonis99Zepeda](https://github.com/Adonis99Zepeda).
+  
